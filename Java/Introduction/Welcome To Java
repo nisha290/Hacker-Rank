@@ -1,4 +1,6 @@
+--------
 QUESTION
+--------
 
 Welcome to the world of Java! In this challenge, we practice printing to stdout.
 
@@ -21,7 +23,9 @@ Sample Output
 Hello, World.
 Hello, Java.
 
+--------
 SOLUTION
+--------
 
 import java.io.*;
 import java.util.*;
