@@ -1,7 +1,4 @@
---------
-QUESTION
---------
-
+/*
 "A string is traditionally a sequence of characters, either as a literal constant or as some kind of variable." — Wikipedia: String (computer science)
 
 This exercise is to test your understanding of Java Strings. A sample String declaration:
@@ -42,11 +39,7 @@ A has a length of 5, and B has a length of 4; the sum of their lengths is 9.
 When sorted alphabetically/lexicographically, "hello" precedes "java"; therefore, A is not greater than B and the answer is No.
 
 When you capitalize the first letter of both A and B and then print them separated by a space, you get "Hello Java".
-
-
---------
-SOLUTION
---------
+*/
 
 import java.io.*;
 import java.util.*;
