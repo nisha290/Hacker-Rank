@@ -1,5 +1,4 @@
-QUESTION
-
+/*
 In this challenge, we test your knowledge of using if-else conditional statements to automate decision-making processes. An if-else statement has the following logical flow:
 Given an integer NN as input, check the following:
 If NN is odd, print "Weird".
@@ -25,9 +24,7 @@ Sample Input 1
 Sample Output 1
 
 Not Weird
-
-
-SOLUTION
+*/
 
 import java.io.*;
 import java.util.*;
